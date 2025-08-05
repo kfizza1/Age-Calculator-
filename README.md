@@ -43,7 +43,7 @@ Users can input their **date of birth**, and the app will calculate their exact 
 
 ## ✅ Author
 
-Made with 💙 by [Fizza Khan](https://github.com/kfizzal)
+Made with 💙 by [Fizza Khan](https://github.com/kfizza1)
 
 ---
 
