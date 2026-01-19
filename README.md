@@ -7,7 +7,7 @@ Users can input their **date of birth**, and the app will calculate their exact 
 
 ## 📸 Demo
 
-[Live Demo](https://kfizza1.github.io/Age-Calculator-/)
+(https://kfizza1.github.io/Age-Calculator-/)
 
 ---
 
